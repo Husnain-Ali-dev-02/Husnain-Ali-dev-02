@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Husnain Ali
-- 💯 Experienced Front-end Developer passionate about building engaging user interfaces with **React**.
-- 🌱 Currently diving into the **MERN stack** (Mongodb, Express.JS, React, Node.js) to become a full-stack developer.
+- 🎯 **Front-end Developer** with a strong passion for crafting seamless and dynamic user interfaces using **React**. Currently on a journey to becoming a **Full-stack Developer** by mastering the **MERN stack**
 - 💻 Eager to collaborate on Projects that utilize **React** for the frontend and are built with a **Node.js/Express.js** backend.
 - 📫 How to reach me: [LinkedIn Profile URL] (https://www.linkedin.com/in/husnain-ali-a11813282)
 - 😄 Pronouns: He/Him
