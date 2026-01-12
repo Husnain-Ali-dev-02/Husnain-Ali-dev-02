@@ -11,11 +11,9 @@
 
 ## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=Husnain-Ali-dev-02&show_icons=true&theme=tokyonight" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Husnain-Ali-dev-02&theme=github_dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Husnain-Ali-dev-02&theme=tokyonight" />
+
 
 
 
